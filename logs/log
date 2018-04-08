@@ -1,0 +1,7 @@
+[W 180408 18:37:33 Passport:9] warning msg
+[E 180408 18:37:33 Passport:10] error msg
+[D 180408 18:40:39 Passport:7] debug msg
+[I 180408 18:40:39 Passport:8] info msg
+[W 180408 18:40:39 Passport:9] warning msg
+[E 180408 18:40:39 Passport:10] error msg
+[I 180408 18:40:39 web:1946] 304 GET / (127.0.0.1) 1.43ms
